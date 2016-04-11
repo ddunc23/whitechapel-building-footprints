@@ -1,0 +1,41 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Layer Folders that I don't Want to Track #
+############################################
+/Goad\ -\ Hi\ Res/
+/Goad\ -\ Hi\ Res/*
+/Goad\ Outline\ Plans/
+/Goad\ Outline\ Plans/*
+/Goad\ Photographs/
+/Goad\ Photographs/*
+/Goad\ Photographs\ copy/
+/Goad\ Photographs\ copy/*
+/Open\ Spaces/
+/Open\ Spaces/*
+/Study\ Area\ Footprints/
+/Study\ Area\ Footprints/*
+/Study\ Area\ Footprints\ -\ More/
+/Study\ Area\ Footprints\ -\ More/*
+/Areas\ 2\ and\ 3B\ -\ Lidar\ Only/
+/Areas\ 2\ and\ 3B\ -\ Lidar\ Only/*
+/Study\ Area/
+/Study\ Area/*
+/edited\ footprints/
+/edited\ footprints/*
+/Chapter\ 8/
+/Chapter\ 8/*
+
+# Other Files I don't want #
+############################
+
+*.zip
+*.qgs
+*.qgs~
